@@ -1,10 +1,10 @@
 {
   "@@locale": "en",
-  "appName": "EcoTrack",
+  "appName": "Eco Track",
   "@appName": {
     "description": "Application name"
   },
-  "welcome": "Welcome to EcoTrack",
+  "welcome": "Welcome to Eco Track",
   "@welcome": {
     "description": "Welcome message"
   },

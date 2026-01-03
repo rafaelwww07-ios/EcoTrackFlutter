@@ -1,6 +1,6 @@
 {
-    "name": "eco_track_flutter",
-    "short_name": "eco_track_flutter",
+    "name": "Eco Track",
+    "short_name": "Eco Track",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

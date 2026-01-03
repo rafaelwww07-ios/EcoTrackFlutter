@@ -103,13 +103,13 @@ abstract class AppLocalizations {
   /// Application name
   ///
   /// In en, this message translates to:
-  /// **'EcoTrack'**
+  /// **'Eco Track'**
   String get appName;
 
   /// Welcome message
   ///
   /// In en, this message translates to:
-  /// **'Welcome to EcoTrack'**
+  /// **'Welcome to Eco Track'**
   String get welcome;
 
   /// Sign in button text

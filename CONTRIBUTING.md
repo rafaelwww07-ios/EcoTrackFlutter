@@ -1,6 +1,6 @@
-# Contributing to EcoTrack
+# Contributing to Eco Track
 
-Thank you for your interest in contributing to EcoTrack! This is a portfolio project, but contributions and suggestions are welcome.
+Thank you for your interest in contributing to Eco Track! This is a portfolio project, but contributions and suggestions are welcome.
 
 ## 🚀 Getting Started
 

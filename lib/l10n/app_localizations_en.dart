@@ -9,10 +9,10 @@ class AppLocalizationsEn extends AppLocalizations {
   AppLocalizationsEn([String locale = 'en']) : super(locale);
 
   @override
-  String get appName => 'EcoTrack';
+  String get appName => 'Eco Track';
 
   @override
-  String get welcome => 'Welcome to EcoTrack';
+  String get welcome => 'Welcome to Eco Track';
 
   @override
   String get signIn => 'Sign In';

@@ -1,4 +1,4 @@
-# 🌱 EcoTrack - Carbon Footprint Tracker
+# 🌱 Eco Track - Carbon Footprint Tracker
 
 <div align="center">
 
@@ -17,7 +17,7 @@ A beautiful, cross-platform Flutter application for tracking carbon footprint, f
 
 ## 📱 About
 
-EcoTrack is a modern Flutter application designed to help users track their environmental impact, find nearby recycling centers, and participate in eco-friendly challenges. Built with clean architecture principles, it demonstrates professional Flutter development practices suitable for portfolio presentation.
+Eco Track is a modern Flutter application designed to help users track their environmental impact, find nearby recycling centers, and participate in eco-friendly challenges. Built with clean architecture principles, it demonstrates professional Flutter development practices suitable for portfolio presentation.
 
 ### Key Highlights
 

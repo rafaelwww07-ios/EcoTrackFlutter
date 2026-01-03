@@ -7,7 +7,7 @@ set -e
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$PROJECT_DIR"
 
-echo "🚀 Запуск Android эмулятора и приложения EcoTrack..."
+echo "🚀 Запуск Android эмулятора и приложения Eco Track..."
 echo ""
 
 # Check if emulator is already running

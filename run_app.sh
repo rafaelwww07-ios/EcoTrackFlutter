@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script to run EcoTrack Flutter app
+# Script to run Eco Track Flutter app
 # This script will check for errors and run the app
 
 set -e
@@ -8,7 +8,7 @@ set -e
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$PROJECT_DIR"
 
-echo "🚀 Запуск EcoTrack приложения..."
+echo "🚀 Запуск Eco Track приложения..."
 echo ""
 
 # Check Flutter

@@ -8,7 +8,7 @@ set -e
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$PROJECT_DIR"
 
-echo "🍎 Запуск iOS симулятора и приложения EcoTrack..."
+echo "🍎 Запуск iOS симулятора и приложения Eco Track..."
 echo ""
 
 # Check if Xcode is installed

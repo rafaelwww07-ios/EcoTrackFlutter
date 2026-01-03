@@ -7,7 +7,7 @@ set -e
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$PROJECT_DIR"
 
-echo "🍎 Запуск EcoTrack на iOS..."
+echo "🍎 Запуск Eco Track на iOS..."
 echo ""
 
 # Check if simulator is running
