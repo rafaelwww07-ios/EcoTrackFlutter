@@ -1,0 +1,259 @@
+{
+  "@@locale": "en",
+  "appName": "EcoTrack",
+  "@appName": {
+    "description": "Application name"
+  },
+  "welcome": "Welcome to EcoTrack",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+  "signIn": "Sign In",
+  "@signIn": {
+    "description": "Sign in button text"
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "Sign up button text"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password label"
+  },
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link"
+  },
+  "calculateCarbonFootprint": "Calculate Carbon Footprint",
+  "@calculateCarbonFootprint": {
+    "description": "Calculate button text"
+  },
+  "yourCarbonFootprint": "Your Carbon Footprint",
+  "@yourCarbonFootprint": {
+    "description": "Carbon footprint title"
+  },
+  "recyclingPoints": "Recycling Points",
+  "@recyclingPoints": {
+    "description": "Recycling points title"
+  },
+  "activeChallenges": "Active Challenges",
+  "@activeChallenges": {
+    "description": "Active challenges title"
+  },
+  "statistics": "Statistics",
+  "@statistics": {
+    "description": "Statistics title"
+  },
+  "achievements": "Achievements",
+  "@achievements": {
+    "description": "Achievements title"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings title"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home tab label"
+  },
+  "calculator": "Calculator",
+  "@calculator": {
+    "description": "Calculator tab label"
+  },
+  "map": "Map",
+  "@map": {
+    "description": "Map tab label"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile tab label"
+  },
+  "filterByType": "Filter by Type",
+  "@filterByType": {
+    "description": "Filter label on map page"
+  },
+  "signInWithGoogle": "Sign in with Google",
+  "@signInWithGoogle": {
+    "description": "Google sign in button text"
+  },
+  "tryDemoMode": "Try Demo Mode",
+  "@tryDemoMode": {
+    "description": "Demo mode button text"
+  },
+  "dontHaveAccount": "Don't have an account?",
+  "@dontHaveAccount": {
+    "description": "Register link text"
+  },
+  "or": "OR",
+  "@or": {
+    "description": "Divider text"
+  },
+  "carbonFootprintCalculator": "Carbon Footprint Calculator",
+  "@carbonFootprintCalculator": {
+    "description": "Calculator page title"
+  },
+  "calculateAgain": "Calculate Again",
+  "@calculateAgain": {
+    "description": "Calculate again button"
+  },
+  "trackYourImpact": "Track your environmental impact",
+  "@trackYourImpact": {
+    "description": "Calculator description"
+  },
+  "colorPalette": "Color Palette",
+  "@colorPalette": {
+    "description": "Color palette setting title"
+  },
+  "themeMode": "Theme Mode",
+  "@themeMode": {
+    "description": "Theme mode setting title"
+  },
+  "light": "Light",
+  "@light": {
+    "description": "Light theme mode"
+  },
+  "dark": "Dark",
+  "@dark": {
+    "description": "Dark theme mode"
+  },
+  "auto": "Auto",
+  "@auto": {
+    "description": "Auto theme mode"
+  },
+  "transport": "Transport",
+  "@transport": {
+    "description": "Transport category"
+  },
+  "energy": "Energy",
+  "@energy": {
+    "description": "Energy category"
+  },
+  "diet": "Diet",
+  "@diet": {
+    "description": "Diet category"
+  },
+  "waste": "Waste",
+  "@waste": {
+    "description": "Waste category"
+  },
+  "createAccount": "Create Account",
+  "@createAccount": {
+    "description": "Create account page title"
+  },
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full name field label"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+  "resetPassword": "Reset Password",
+  "@resetPassword": {
+    "description": "Reset password page title"
+  },
+  "sendResetLink": "Send Reset Link",
+  "@sendResetLink": {
+    "description": "Send reset link button"
+  },
+  "visitWebsite": "Visit Website",
+  "@visitWebsite": {
+    "description": "Visit website button"
+  },
+  "getDirections": "Get Directions",
+  "@getDirections": {
+    "description": "Get directions button"
+  },
+  "car": "Car (km)",
+  "@car": {
+    "description": "Car input label"
+  },
+  "bus": "Bus (km)",
+  "@bus": {
+    "description": "Bus input label"
+  },
+  "train": "Train (km)",
+  "@train": {
+    "description": "Train input label"
+  },
+  "plane": "Plane (km)",
+  "@plane": {
+    "description": "Plane input label"
+  },
+  "electricity": "Electricity (kWh)",
+  "@electricity": {
+    "description": "Electricity input label"
+  },
+  "meat": "Meat (kg)",
+  "@meat": {
+    "description": "Meat input label"
+  },
+  "dairy": "Dairy (kg)",
+  "@dairy": {
+    "description": "Dairy input label"
+  },
+  "skip": "Skip",
+  "@skip": {
+    "description": "Skip button"
+  },
+  "signInToContinue": "Sign in to continue",
+  "@signInToContinue": {
+    "description": "Sign in subtitle"
+  },
+  "enterYourEmail": "Enter your email",
+  "@enterYourEmail": {
+    "description": "Email hint"
+  },
+  "enterYourPassword": "Enter your password",
+  "@enterYourPassword": {
+    "description": "Password hint"
+  },
+  "points": "points",
+  "@points": {
+    "description": "Points label"
+  },
+  "eco": "Eco",
+  "@eco": {
+    "description": "Eco color palette"
+  },
+  "minimalist": "Minimalist",
+  "@minimalist": {
+    "description": "Minimalist color palette"
+  },
+  "vibrant": "Vibrant",
+  "@vibrant": {
+    "description": "Vibrant color palette"
+  },
+  "challengeUsePublicTransport": "Use Public Transport",
+  "@challengeUsePublicTransport": {
+    "description": "Challenge title: Use public transport"
+  },
+  "challengeUsePublicTransportDesc": "Use public transport instead of car for 3 days",
+  "@challengeUsePublicTransportDesc": {
+    "description": "Challenge description: Use public transport"
+  },
+  "challengeReduceMeat": "Reduce Meat Consumption",
+  "@challengeReduceMeat": {
+    "description": "Challenge title: Reduce meat"
+  },
+  "challengeReduceMeatDesc": "Have 5 vegetarian meals this week",
+  "@challengeReduceMeatDesc": {
+    "description": "Challenge description: Reduce meat"
+  },
+  "challengeRecycleElectronics": "Recycle Electronics",
+  "@challengeRecycleElectronics": {
+    "description": "Challenge title: Recycle electronics"
+  },
+  "challengeRecycleElectronicsDesc": "Visit a recycling point for electronics",
+  "@challengeRecycleElectronicsDesc": {
+    "description": "Challenge description: Recycle electronics"
+  }
+}
