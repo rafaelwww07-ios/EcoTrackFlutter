@@ -322,7 +322,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ✅ **UI/UX**: Complete
 ✅ **Localization**: English, Russian, Spanish
 ✅ **Testing**: Basic tests implemented
-🔄 **Future Enhancements**: See [Issues](https://github.com/yourusername/eco_track_flutter/issues)
+🔄 **Future Enhancements**: See [Issues](https://github.com/rafaelwww07-ios/eco-track/issues)
 
 ---
 
