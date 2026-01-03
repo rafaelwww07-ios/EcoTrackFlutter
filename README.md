@@ -135,8 +135,8 @@ lib/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/rafaelwww07-ios/EcoTrackFutter.git
-cd EcoTrackFutter
+git clone https://github.com/rafaelwww07-ios/EcoTrackFlutter.git
+cd EcoTrackFlutter
 ```
 
 2. **Install dependencies:**
@@ -322,7 +322,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ✅ **UI/UX**: Complete
 ✅ **Localization**: English, Russian, Spanish
 ✅ **Testing**: Basic tests implemented
-🔄 **Future Enhancements**: See [Issues](https://github.com/rafaelwww07-ios/EcoTrackFutter/issues)
+🔄 **Future Enhancements**: See [Issues](https://github.com/rafaelwww07-ios/EcoTrackFlutter/issues)
 
 ---
 
