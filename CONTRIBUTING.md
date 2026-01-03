@@ -5,7 +5,7 @@ Thank you for your interest in contributing to Eco Track! This is a portfolio pr
 ## 🚀 Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/eco_track_flutter.git`
+2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/eco-track.git`
 3. Create a branch: `git checkout -b feature/your-feature-name`
 4. Make your changes
 5. Commit: `git commit -m 'Add some feature'`

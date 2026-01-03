@@ -135,8 +135,8 @@ lib/
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/eco_track_flutter.git
-cd eco_track_flutter
+git clone https://github.com/rafaelwww07-ios/eco-track.git
+cd eco-track
 ```
 
 2. **Install dependencies:**
