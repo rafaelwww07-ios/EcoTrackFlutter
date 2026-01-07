@@ -83,7 +83,9 @@ Eco Track is a modern Flutter application designed to help users track their env
 
 ## 📸 Screenshots
 
-*Add screenshots of your app here*
+<div align="center">
+  <img src="EcoTrack.png" alt="Eco Track App Screenshots" width="100%">
+</div>
 
 ## 🏗️ Architecture
 
